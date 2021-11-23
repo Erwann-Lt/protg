@@ -1,0 +1,165 @@
+{
+  "Header": {
+    "title": "Votre sécurité",
+    "paragraph": "Notre mission"
+  },
+  "About": {
+    "paragraph": "PRO TG est une entreprise spécialisée dans la fourniture de matériel de sécurité pour chantiers de construction. Elle bénéficie d'un réseau de fournisseurs international capable de vous satisfaire au mieux. En effet, notre équipe collabore avec les entreprises les plus reconnues telles que Honeywell ou encore Chubb. Notre mission est d'identifier votre besoin et d'y répondre de la manière la plus efficiente qu'il soit.",
+    "Why": [
+      
+      "Réactive",
+      "Proactive",
+      "Disponible"
+    ],
+    "Why2": [
+      "Innovante",
+      "Fiable",
+      "Humble"
+      
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Protections de la tête",
+       "smallImage": "https://media.istockphoto.com/photos/yellow-and-white-helmet-safety-in-construction-site-picture-id1316716028?k=20&m=1316716028&s=612x612&w=0&h=cd5FkdNqvLJY12-gPH-m9JRirGk5A2ztRTbfyMsB9XQ="
+    },
+    {
+      "title": "Chaussures de sécurité",
+       "smallImage": "https://media.istockphoto.com/photos/cutting-a-metal-rod-with-a-circular-saw-picture-id646367970?b=1&k=20&m=646367970&s=170667a&w=0&h=iV7__stSJiytFhFAa04mG6U83vIWMolrKlu1Yf0PmA8="
+    },
+    {
+      "title": "Protection des yeux",
+       "smallImage": "https://media.istockphoto.com/photos/welding-worker-wear-personal-safety-equipment-protective-concept-of-picture-id1227337414?b=1&k=20&m=1227337414&s=170667a&w=0&h=dIFk3DFD3IX_W3gpfXutqQ6duRAtlFbrHdTnLxVqU44="
+    },
+    {
+      "title": "Vêtements de protection",
+       "smallImage": "https://media.istockphoto.com/photos/personal-safety-workwear-and-construction-blueprint-shot-directly-picture-id470172604?b=1&k=20&m=470172604&s=170667a&w=0&h=X7Yk9E_OM0zGEDuAYjtzDGJQe2ur-KR2EPEzJA12uAI="
+    },
+    {
+      "title": "Gants de travail",
+       "smallImage": "https://media.istockphoto.com/photos/carpenter-measuring-a-wooden-plank-picture-id668049366?b=1&k=20&m=668049366&s=170667a&w=0&h=1pyVGLYBHek-MhyVECWbAexoBcq08togwOIAqqDaO8Q="
+    },
+    {
+      "title": "Autres protections",
+       "smallImage": "https://media.istockphoto.com/photos/construction-worker-wearing-safety-harness-picture-id1125525766?b=1&k=20&m=1125525766&s=170667a&w=0&h=Xr712Pb4aUVpgfDEf_5BRjPdUMkYfeZEE81xN2RvdzI="
+    }
+     
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-folder",
+      "name": "Catalogue",
+      "text": "Large choix de produits."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Devis",
+      "text": "Nous effectuons avec vous des devis totalement sur-mesure."
+    },
+    {
+      "icon": "fa fa-truck",
+      "name": "Livraison",
+      "text": "Nous assurons l'acheminement du matériel sur site à travers toute l'Europe."
+    },
+    {
+      "icon": "fa fa-bell",
+      "name": "Suivi",
+      "text": "Nous assurons le suivi du matériel tout au long des travaux."
+    },
+    {
+      "icon": "fa fa-money",
+      "name": "Economies",
+      "text": "Vous réalisez des économies grâce à notre expertise."
+    },
+    {
+      "icon": "fa fa-info",
+      "name": "Conseil",
+      "text": "Nous vous conseillons sur ce que vous pouvez mettre en place."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "72 rue Vaillaint Couturier, 93130 Noisy-le-sec ",
+    "phone": "06 .. .. .. ..",
+    "email": "contact@protg.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Compréhension",
+      "text": "Notre équipe d'experts sera capable d'évaluer et comprendre votre juste besoin."
+    },
+    {
+      "icon": "fa fa-plane",
+      "title": "Rapidité",
+      "text": "Notre réseau de fournisseurs international vous garantira une rapidité de livraison absolue."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Confiance",
+      "text": "Vous garderez le même interlocuteur aussi longtemps que cela sera nécessaire."
+    },
+    {
+      "icon": "fa fa-check-circle ",
+      "title": "Choix",
+      "text": "Notre large choix de produits vous permettra d'assurer la sécurité de vos collaborateurs en toutes circonstances."
+    }
+  ]
+}
